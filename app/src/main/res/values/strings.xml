@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">MyTestSourcetree</string>
     <string name="test">MyTestSourcetree</string>
-    <string name="xxx">test</string>
+    <string name="xxx">test</string><string name="yyy">test</string>
 </resources>
