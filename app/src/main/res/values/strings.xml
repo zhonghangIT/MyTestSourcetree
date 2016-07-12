@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">MyTestSourcetree</string>
     <string name="test">MyTestSourcetree</string>
+    <string name="asd">test</string> 
+    <string name="asdc">test</string> 
     <string name="tc">test</string>
 </resources>
