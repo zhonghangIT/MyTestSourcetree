@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">MyTestSourcetree</string>
-    <string name="chongtu">chongtu</string>
+    <string name="test">MyTestSourcetree</string>
 </resources>
